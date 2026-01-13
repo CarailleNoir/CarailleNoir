@@ -11,7 +11,7 @@
 <a href = "mailto:pcmodzxip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/6ASquqRkMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="6ASquqRkMD" height="30" width="40" /></a><a href="https://dev.to/caraillenoir" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="caraillenoir" height="30" width="40" /></a></p>
+<a href="https://discord.gg/6ASquqRkMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="6ASquqRkMD" height="30" width="40" /></a>/p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
